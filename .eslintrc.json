@@ -1,0 +1,42 @@
+{
+  "parser": "babel-eslint",
+  "parserOptions": {
+    "ecmaVersion": 8,
+    "ecmaFeatures": {
+      "experimentalObjectRestSpread": true,
+      "jsx": true
+    },
+    "sourceType": "module"
+  },
+  "env": {
+    "es6": true,
+    "node": true
+  },
+  "plugins": [
+    "import",
+    "node",
+    "standard",
+    "react"
+  ],
+  "globals": {
+    "document": false,
+    "navigator": false,
+    "window": false
+  },
+  "rules": {
+    "no-duplicate-imports": "error",
+    "no-undef": "error",
+    "no-undef-init": "error",
+    "no-unused-vars": "warn",
+    "no-unused-expressions": "warn",
+    "react/jsx-uses-react": "error",
+    "react/jsx-uses-vars": "error",
+    "react/jsx-no-undef": "error",
+    "react/no-unused-prop-types": "error",
+    "react/no-will-update-set-state": "error",
+    "react/no-deprecated": "error",
+    "react/no-direct-mutation-state": "error",
+    "react/no-redundant-should-component-update": "error",
+    "react/jsx-no-duplicate-props": "error"
+  }
+}
