@@ -8,6 +8,7 @@ and when you reach your goal you make spending Requests, which must be approved 
 # Running the app
 
 Run `npm install` in the main folder
+
 Make sure you install [Metamask](https://metamask.io/) in order to try out the app
 
 ## Using the already deployed smart contract in Rinkeby: 
