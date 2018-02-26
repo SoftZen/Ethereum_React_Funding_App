@@ -1,5 +1,5 @@
-# Etherium_React_Funding_App
-A simple Kickstarter dapp copy based on Etherium with ReactJS and NextJS as a front end
+# Etherеum_React_Funding_App
+A simple Kickstarter dapp copy based on Etherеum with ReactJS and NextJS as a front end
 
 You can create Campaigns for funding your idea, receive funding from people who later become your approvers, 
 and when you reach your goal you make spending Requests, which must be approved by at least half of your approvers.
